@@ -1,8 +1,0 @@
-{
-  "Name": "a;sldfj;lasdj",
-  "Alias": "aSldfjLasdj",
-  "Udi": "umb://template/2018cfe739554d51a58984f4d115fa83",
-  "Dependencies": [],
-  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
-  "__version": "14.2.1"
-}
