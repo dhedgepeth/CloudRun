@@ -1,0 +1,8 @@
+{
+  "Name": "Home",
+  "Alias": "home",
+  "Udi": "umb://template/7a588d935fe1432587cf682aac135ea3",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "14.2.1"
+}
