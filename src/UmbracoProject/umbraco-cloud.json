@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "cloud run test",
+      "Alias": "cloud-run-test",
+      "Id": "ac635c09-61cf-434c-8abc-08390e745583",
+      "Workspaces": [
+        {
+          "Id": "661c3bd6-f751-42b2-a5ae-f3327b33e3be",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://cloud-run-test.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
