@@ -1,0 +1,8 @@
+{
+  "Name": "testing 123",
+  "Alias": "testing123",
+  "Udi": "umb://template/7f84d56e258c4395883983cb0bae7a58",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "14.2.1"
+}
