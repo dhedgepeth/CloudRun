@@ -1,10 +1,7 @@
 {
   "Name": "Test",
   "Alias": "test",
-  "DefaultTemplate": "umb://template/e83fb10aa8874099b12cd4497923604e",
-  "AllowedTemplates": [
-    "umb://template/e83fb10aa8874099b12cd4497923604e"
-  ],
+  "AllowedTemplates": [],
   "HistoryCleanup": {},
   "Icon": "icon-notepad",
   "Thumbnail": "folder.png",
@@ -15,12 +12,7 @@
   "PropertyGroups": [],
   "PropertyTypes": [],
   "Udi": "umb://document-type/d03359fbaabf43e597fbce994a54fccf",
-  "Dependencies": [
-    {
-      "Udi": "umb://template/e83fb10aa8874099b12cd4497923604e",
-      "Ordering": true
-    }
-  ],
+  "Dependencies": [],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
   "__version": "14.2.1"
 }
