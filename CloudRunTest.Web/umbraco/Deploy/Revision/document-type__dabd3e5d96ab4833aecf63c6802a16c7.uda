@@ -1,10 +1,7 @@
 {
   "Name": "a;sldfj;lasdj",
   "Alias": "aSldfjLasdj",
-  "DefaultTemplate": "umb://template/2018cfe739554d51a58984f4d115fa83",
-  "AllowedTemplates": [
-    "umb://template/2018cfe739554d51a58984f4d115fa83"
-  ],
+  "AllowedTemplates": [],
   "HistoryCleanup": {},
   "Icon": "icon-notepad",
   "Thumbnail": "folder.png",
@@ -15,12 +12,7 @@
   "PropertyGroups": [],
   "PropertyTypes": [],
   "Udi": "umb://document-type/dabd3e5d96ab4833aecf63c6802a16c7",
-  "Dependencies": [
-    {
-      "Udi": "umb://template/2018cfe739554d51a58984f4d115fa83",
-      "Ordering": true
-    }
-  ],
+  "Dependencies": [],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
   "__version": "14.2.1"
 }
