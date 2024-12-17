@@ -1,9 +1,11 @@
-﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+﻿@using Umbraco.Cms.Core.Sync
+@using Umbraco.Cms.Web.Common.PublishedModels;
 @inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage
+@inject IServerRoleAccessor _serverRoleAccessor;
 @{
 	Layout = null;
+	var region = Environment.GetEnvironmentVariable("SERVER_REGION");
 }
 
-@Model.Value("hero")
-<p>Hello World!</p>
-<p>Test Deployment</p>
+<p>Current Role: @_serverRoleAccessor.CurrentServerRole</p>
+<p>Current Server Region: @region</p>
